@@ -5,3 +5,6 @@ Automated processes in the Process Builder consist of:
 
 Any change that causes a record to match the criteria automatically triggers the action group.
 
+A schedule lets the process know that it must wait to execute the associated actions. Because you can configure multiple schedules for the same criteria node, each schedule has its own list of actions to execute.
+
+
