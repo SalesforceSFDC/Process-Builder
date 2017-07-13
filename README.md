@@ -7,4 +7,6 @@ Any change that causes a record to match the criteria automatically triggers the
 
 A schedule lets the process know that it must wait to execute the associated actions. Because you can configure multiple schedules for the same criteria node, each schedule has its own list of actions to execute.
 
-
+To add scheduled actions to your process, you have two options:
+ * Start the process only when a record is created (1). Select this option when you choose an object for your process.
+ * Start the process when a record is created or edited (2). In addition, select the advanced option to execute actions only when specified changes are made (3) when you add criteria to your process.
