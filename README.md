@@ -17,3 +17,5 @@ To add scheduled actions to your process, you have two options:
  * Start the process when a record is created or edited (2). In addition, select the advanced option to execute actions only when specified changes are made (3) when you add criteria to your process.
  
 A process can have up to 50 versions, but only one version of a process can be active.
+
+
