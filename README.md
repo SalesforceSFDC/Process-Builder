@@ -5,7 +5,8 @@
  * [Automate Key Business Processes with Lightning Process Builder](http://pages.mail.salesforce.com/achievemore/automateprocesses/?utm_source=trailhead&utm_medium=resources&utm_campaign=072016)
  * [Publishing Salesforce Data to REST APIs with Lightning Process Builder](https://www.youtube.com/watch?v=pxaDZO_uLqA&spfreload=5)
  * [Slack WebHooks](https://optimizely.slack.com/apps/A0F7XDUAZ-incoming-webhooks)
-
+ * Named Credentials - a configuration item that allows you to define the credentials that should be used when making a callout to a particular external service, either per user or for all users.
+ 
 Automated processes in the Process Builder consist of:
  * Criteria that determine when to execute action groups
  * Immediate and scheduled actions to execute when those criteria are met
